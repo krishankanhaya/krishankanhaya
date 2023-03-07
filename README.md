@@ -1,6 +1,9 @@
 <h1 align="left">Hi 👋, I'm krishankanhaya</h1>
 <h3 align="left">A passionate frontend developer and programmer <img align="right" src="https://komarev.com/ghpvc/?username=krishankanhaya&label=Profile%20views&color=0e75b6&style=flat" alt="krishankanhaya" /></h3>
-<p>&nbsp;</br><img align="left" src="https://github-readme-stats.vercel.app/api?username=krishankanhaya&show_icons=true&locale=en" alt="krishankanhaya" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=krishankanhaya&" alt="krishankanhaya" /></p>
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=krishankanhaya&show_icons=true&locale=en" alt="krishankanhaya" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=krishankanhaya&" alt="krishankanhaya" />  
+</div>
+<p>&nbsp;</br></p>
 </br>
 
 
@@ -13,15 +16,7 @@
 </p>
 
 </hr>
-- 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://github.com/krishankanhaya?tab=repositories](https://github.com/krishankanhaya?tab=repositories)
-
-- 💬 Ask me about **Node Express MongoDB React**
-
-- 📫 How to reach me **krishankanhaya0007@gmial.com**
-
-- ⚡ Fun fact :  **Never Let You Down!**
 
 
 <h3 align="left">Technology:</h3>
@@ -46,6 +41,14 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
+<!-- - 🌱 I’m currently learning **MERN**
 
+- 👨‍💻 All of my projects are available at [https://github.com/krishankanhaya?tab=repositories](https://github.com/krishankanhaya?tab=repositories)
+
+- 💬 Ask me about **Node Express MongoDB React**
+
+- 📫 How to reach me **krishankanhaya0007@gmial.com**
+
+- ⚡ Fun fact :  **Never Let You Down!** -->
 
 
