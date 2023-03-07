@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm krishankanhaya</h1>
 <h3 align="left">A passionate frontend developer and programmer <img align="right" src="https://komarev.com/ghpvc/?username=krishankanhaya&label=Profile%20views&color=0e75b6&style=flat" alt="krishankanhaya" /></h3>
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=krishankanhaya&show_icons=true&locale=en" alt="krishankanhaya" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=krishankanhaya&" alt="krishankanhaya" />  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=krishankanhaya&show_icons=true&locale=en" alt="krishankanhaya" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishankanhaya&show_icons=true&locale=en&layout=compact" alt="krishankanhaya" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=krishankanhaya&" alt="krishankanhaya" />  
 </div>
 <p>&nbsp;</br></p>
 </br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishankanhaya&show_icons=true&locale=en&layout=compact" alt="krishankanhaya" /></p>
+<p></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
