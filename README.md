@@ -1,4 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://dri.es/files/cache/blog/javascript-powered-multichannel-640w.gif)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm krishankanhaya</h1>
 <h3 align="center">A passionate frontend developer and programmer</h3>
 
