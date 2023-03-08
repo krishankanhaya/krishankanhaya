@@ -167,5 +167,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishankanhaya&show_icons=true&locale=en" alt="krishankanhaya" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=krishankanhaya&" alt="krishankanhaya" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishankanhaya&show_icons=true&locale=en&layout=compact" alt="krishankanhaya" /></p>
-<p align="left" style="display: flex; justify-content: space-between;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishankanhaya" alt="krishankanhaya" /></a> </p>
+
 
